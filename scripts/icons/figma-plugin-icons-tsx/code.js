@@ -1,5 +1,5 @@
 const _FILE_URL = "https://staging.figma.com/design/YfiqA0yWMXuLJAzkZNpBdy";
-const FILE_URL = "https://figma.com/design/J0KLPKXiONDRssXD1AX9Oi";
+const FILE_URL = "https://figma.com/design/hGmX2gPYjKTA2dV74w4Sja";
 
 async function run() {
   const exports = [];
